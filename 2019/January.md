@@ -1,3 +1,5 @@
+[Go back to the home page.](https://jhancock532.github.io/reflection/)
+
 # January
 
 **Note - an introduction to how I started on this reflective process can be found on the [everydays website](https://jhancock532.github.io/everydays/), where this material originates from.**
