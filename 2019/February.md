@@ -33,4 +33,4 @@ I've updated the [bars.js](https://github.com/jhancock532/bars.js) GitHub reposi
 
 It includes full documentation of the functions / attributes of the library in its GitHub wiki.
 
-![A screenshot of bars.js documentation.](https://raw.githubusercontent.com/jhancock532/reflection/master/2019/february-images/1 - bars.js documentation.PNG)
+![A screenshot of bars.js documentation.](https://raw.githubusercontent.com/jhancock532/reflection/master/2019/february-images/1%20-%20bars.js%20documentation.PNG)
