@@ -1,6 +1,6 @@
 # February 2019
 
-## 2/2/2019
+## 2/2/2019 - Learning JavaScript 7
 
 Today I continued to learn the basics of JavaScript by following the tutorials at [javascript.info](https://javascript.info/).
 
@@ -27,8 +27,10 @@ My notes can be found on [CodePen](https://codepen.io/jhancock532/pen/bzWjzP).
 - You can extend an arrow function with {}, for example `let sum = (a, b) => {return a+b};`
 - Just for fun: `console.log((() => (0))());` Outputs 0.
 
-## 1/2/2019
+## 1/2/2019 - bars.js on GitHub
 
 I've updated the [bars.js](https://github.com/jhancock532/bars.js) GitHub repository!
 
 It includes full documentation of the functions / attributes of the library in its GitHub wiki.
+
+![A screenshot of bars.js documentation.](https://raw.githubusercontent.com/jhancock532/reflection/master/2019/february-images/1 - bars.js documentation.PNG)
