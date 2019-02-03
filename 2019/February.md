@@ -2,7 +2,44 @@
 
 # February 2019
 
-## 2/2/2019 - Learning JavaScript 7
+## 3/2/2019 - Learning JavaScript 9
+
+Today I continued to learn the basics of JavaScript by following the tutorials at [javascript.info](https://javascript.info/).
+
+A lot of reading, not much not taking of notes.
+- [JavaScript Specials](https://javascript.info/javascript-specials)
+  * Seven types in JavaScript - Number, String, Boolean, Object, Symbol, Undefined, Null
+  * Null means that it doesn't exist, while undefined implies that it isn't yet assigned to.
+  * `prompt(question, defaultAnswer); confirm(statement); alert(statement);`
+  * This section is a pretty good summary of all the previous sections.
+- [Debugging Chrome](https://javascript.info/debugging-chrome)
+  * Chrome debugger has some super cool features, I should use it while developing JS.
+  * I'm relying too much on console.log statements, when I could be using breakpoints.
+- [Coding Style](https://javascript.info/coding-style)
+  * I almost totally agree with the coding style specified in this post. Some interesting points include...
+  * Don't nest too deep, it descreases code readability - use `return;` or `continue;` if necessary.
+  * Use whitespace lines to organise code into logical blocks. I was kind of doing this, good to bring it to my awareness.
+  * **Write your code first, then write the functions that make up the code.** This is so that the person reading the code understands the high level purpose and direction of the code before getting lost in the detail.
+  * Use a linter. Just use a linter, it will save you so much effort.
+  * It's kinda weird, but I've developed an eye for what good code looks like syntactically on my own, and it's essentially the same as what is advised in this guide. When considering the high level (ordering of functions, creating many functions, high level functions) I haven't developed this skill yet, and it's something that I'll have to work on personally...
+  * What is good code? 
+    - It is easy to read and understand. 
+    - It is written in such a way that errors are avoided. 
+- [Comments](https://javascript.info/comments)
+  * The amount of comments in your code should be minimal, as the code should be understandable without them.
+  * If the code is so unclear it requires a comment, then maybe it should be rewritten instead.
+  * Good comments...
+    - Explain the high level design or architecture of your code.
+    - Explain the reasoning behind your solution strategy. Why this way?
+    - Explain subtle features or counter intuitive code.
+    - Follow JSDoc convention for commenting functions.
+- [Ninja Code](https://javascript.info/ninja-code)
+  * Please be sensible while coding. 
+  * Stop using data or value when creating variable names. Think before you name!
+
+[My notes](https://codepen.io/jhancock532/pen/yZXJKB?editors=0012) are there, but all items of interest are summerised above.
+
+## 2/2/2019 - Learning JavaScript 8
 
 Today I continued to learn the basics of JavaScript by following the tutorials at [javascript.info](https://javascript.info/).
 
